@@ -10,7 +10,7 @@ iOS apps span various categories, including productivity, entertainment, social 
 
 Top 10 iOS Apps in 2024
 
-1.TikTok - A leading platform for short-form mobile videos.
+1. TikTok - A leading platform for short-form mobile videos.
 
 2. Instagram - A photo and video sharing social networking service.
 
@@ -18,9 +18,9 @@ Top 10 iOS Apps in 2024
 
 4. Spotify - A digital music service providing access to millions of songs.
 
-5.WhatsApp - A messaging app that supports text, voice, and video communication.
+5. WhatsApp - A messaging app that supports text, voice, and video communication.
 
-6.Gmail - A widely-used email service with extensive features.
+6. Gmail - A widely-used email service with extensive features.
 
 7. Google Maps - A reliable navigation app offering detailed maps and route guidance.
 
