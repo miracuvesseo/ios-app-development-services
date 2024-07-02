@@ -10,11 +10,12 @@ iOS apps span various categories, including productivity, entertainment, social 
 
 Top 10 iOS Apps in 2024
 
-1. TikTok - A leading platform for short-form mobile videos.
+1. <a href="https://www.tiktok.com/TikTok</a> - A leading platform for short-form mobile videos.
 
-2. Instagram - A photo and video sharing social networking service.
+2. <a href="https://www.instagram.com/Instagram</a>
+ - A photo and video sharing social networking service.
 
-3. Zoom - A video conferencing app essential for remote work and learning.
+3. <a href="https://zoom.us/Zoom</a> - A video conferencing app essential for remote work and learning.
 
 4. Spotify - A digital music service providing access to millions of songs.
 
