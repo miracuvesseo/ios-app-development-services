@@ -17,7 +17,7 @@ Top 10 iOS Apps in 2024
 
 3. <a href="https://zoom.us/Zoom</a> - A video conferencing app essential for remote work and learning.
 
-4. Spotify - A digital music service providing access to millions of songs.
+4. <a href="https://open.spotify.com/">Spotify</a> - A digital music service providing access to millions of songs.
 
 5. WhatsApp - A messaging app that supports text, voice, and video communication.
 
