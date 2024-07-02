@@ -12,24 +12,23 @@ Top 10 iOS Apps in 2024
 
 1. <a href="https://www.tiktok.com/">TikTok</a> - A leading platform for short-form mobile videos.
 
-2. <a href="https://www.instagram.com/">Instagram</a>
- - A photo and video sharing social networking service.
+2. <a href="https://www.instagram.com/">Instagram</a> - A photo and video sharing social networking service.
 
 3. <a href="https://zoom.us/">Zoom</a> - A video conferencing app essential for remote work and learning.
 
 4. <a href="https://open.spotify.com/">Spotify</a> - A digital music service providing access to millions of songs.
 
-5. WhatsApp - A messaging app that supports text, voice, and video communication.
+5. <a href="https://www.whatsapp.com/">WhatsApp</a> - A messaging app that supports text, voice, and video communication.
 
-6. Gmail - A widely-used email service with extensive features.
+6. <a href="https://mail.google.com/mail/u/0/#inbox">Gmail</a> - A widely-used email service with extensive features.
 
-7. Google Maps - A reliable navigation app offering detailed maps and route guidance.
+7. <a href="https://www.google.com/maps">Google Maps</a> - A reliable navigation app offering detailed maps and route guidance.
 
-8. Facebook - A social media platform connecting people worldwide.
+8. <a href="https://www.facebook.com/">Facebook</a> - A social media platform connecting people worldwide.
 
-9. YouTube - A video sharing platform with diverse content.
+9. <a href="https://www.youtube.com/">YouTube</a> - A video sharing platform with diverse content.
 
-10. Slack - A collaboration hub for work, facilitating communication and teamwork.
+10. <a href="https://slack.com/intl/en-in">Slack</a> - A collaboration hub for work, facilitating communication and teamwork.
 
 How to Safely Use iOS Apps on Mobile Devices
 
