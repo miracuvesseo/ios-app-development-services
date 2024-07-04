@@ -83,11 +83,11 @@ Miracuves Solutions specializes in delivering tailored <a href="https://miracuve
 
 Customer Testimonials
 
-John D., CEO of TechStart: "Miracuves Solutions transformed our business operations with a custom app that improved productivity and user engagement. Their expertise and support have been invaluable."
+1. John D., CEO of TechStart: "Miracuves Solutions transformed our business operations with a custom app that improved productivity and user engagement. Their expertise and support have been invaluable."
 
-Sarah M., Fitness Enthusiast: "The fitness app developed by Miracuves Solutions has been a game-changer for my workouts. It's user-friendly and packed with features that keep me motivated."
+2. Sarah M., Fitness Enthusiast: "The fitness app developed by Miracuves Solutions has been a game-changer for my workouts. It's user-friendly and packed with features that keep me motivated."
 
-Alex P., Educator: "The educational app created by Miracuves Solutions has made learning fun and interactive for my students. Their attention to detail and commitment to quality is impressive."
+3. Alex P., Educator: "The educational app created by Miracuves Solutions has made learning fun and interactive for my students. Their attention to detail and commitment to quality is impressive."
 
 Frequently Asked Questions
 
